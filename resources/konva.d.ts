@@ -36,7 +36,6 @@ declare module Konva {
     export class Filters {
         static Blur(imageData : any): Filter;
         static Brighten(imageData : any): Filter;
-        static Emboss(imageData : any): Filter;
         static Enhance(imageData : any): Filter;
         static Grayscale(imageData : any): Filter;
         static HSV(imageData : any): Filter;
@@ -46,8 +45,6 @@ declare module Konva {
         static Pixelate(imageData : any): Filter;
         static Posterize(imageData : any): Filter;
         static RGB(imageData : any): Filter;
-        static Sepia(imageData : any): Filter;
-        static Solarize(imageData : any): Filter;
         static Threshold(imageData : any): Filter;
     }
 

@@ -36,14 +36,11 @@ var sourceFiles = [
     'src/filters/RGB.js',
     'src/filters/HSV.js',
     'src/filters/HSL.js',
-    'src/filters/Emboss.js',
     'src/filters/Enhance.js',
     'src/filters/Posterize.js',
     'src/filters/Noise.js',
     'src/filters/Pixelate.js',
     'src/filters/Threshold.js',
-    'src/filters/Sepia.js',
-    'src/filters/Solarize.js',
     'src/filters/Kaleidoscope.js',
 
     // core
